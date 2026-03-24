@@ -8,7 +8,6 @@ This project investigates whether Large Language Models can generate synthetic s
 Phase 1: Literature Review ✅
 
 Reviewed research on LLM-generated personas, synthetic sampling, and bias
-Key papers: Morris et al. (Verasight Reports), Shin et al. (DIS 2024), Atari et al. (2025)
 
 Phase 2: Persona Design Specifications ✅
 
@@ -19,12 +18,11 @@ Performance: How well are companies performing on social/economic responsibiliti
 Belief: To what extent should businesses play an active role in societal issues?
 Importance: How important are corporate social responsibilities?
 
-
 Joint Distributions: Selected Top 15 joint distributions based on association strength (correlation scores)
 
 Phase 3: Persona Generation 🔄 In Progress
 
-Generate synthetic personas using Claude API
+Generate synthetic personas using API
 Validate against Just Capital's marginal distributions
 Ensure logical consistency and sociological plausibility
 
@@ -38,4 +36,3 @@ Phase 5: Analysis & Validation 📅 Upcoming
 
 Assess replicability
 Test for homogeneity bias
-Compare Claude vs. ChatGPT (parallel team)
